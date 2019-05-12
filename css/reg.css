@@ -1,0 +1,13 @@
+.margin{width:1200;margin:0 auto;}
+
+#now{height:50px;font:14px/50px "";margin:20px 0;}
+
+#reg{padding:20px;background:#f5f5f5;}
+#reg p{font:24px/2 "";width:100px;text-align:center;}
+
+#reg form{margin-left:100px;width:300px;}
+#reg form span{width:100px;text-align:center;display:inline-block;}
+#reg form input{margin:20px 0;}
+#reg form b{display:block;color:#f00;height:24px;margin:0 auto;width:200px;text-align:center;}
+#reg form #land{display:block;text-align:center;width:200px;margin:0 auto;font:24px/2 "";color:#fff;background:#06f;border:1px solid #000;}
+#reg form a{color:#06c;display:block;width:200px;text-align:center;margin:50px 0 0 50px;}

@@ -1,0 +1,26 @@
+.margin{width:1200px;margin:0 auto;}
+
+#now{height:50px;font:14px/50px "";margin:20px 0;}
+
+#land{padding:20px;background:#f5f5f5;}
+#land .land-l{float: left;}
+#land form{margin-left:100px;width:400px;}
+#land form span{width:100px;text-align:center;display:inline-block;}
+#land form input{margin:20px 0;}
+#land form .che{margin-left:100px;}
+#land form a{display: inline-block;height:40px;width:100px;background: #f00;color:#fff;text-align:center;font:14px/40px "";margin-left:50px;}
+#land form .zhuce{background:#06f}
+#land form .zhaohui{width:250px;background:#fff;color:#000;margin-top:40px;}
+#land .land-r{float: left;width:400px;margin-left:100px;}
+#land .land-r strong{display: block;color:#f00;margin:20px 0;}
+#land .land-r b{display: block;font:700 12px/16px "";}
+#land .land-r span{display: block;margin:10px 0;}
+
+
+
+
+
+
+
+
+

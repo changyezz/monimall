@@ -1,0 +1,13 @@
+.margin{width: 1200px;margin:0 auto;}
+
+#now{height:50px;font:14px/50px "";margin:20px 0;}
+
+
+#main{}
+#main{}
+#main dt{display: flex;justify-content: space-between;border:1px solid #000;}
+#main dt span{padding:20px 60px;border-left:1px solid #000;}
+#main dt span:first-child{border:none;}
+
+
+
